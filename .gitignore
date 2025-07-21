@@ -208,4 +208,5 @@ __marimo__/
 git rm --cached .env
 git commit -m "Remove .env from version control"
 git push
+.env
 
